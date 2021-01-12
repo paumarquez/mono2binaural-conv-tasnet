@@ -1,0 +1,8 @@
+hdf5/
+runs/
+test_output*/
+their_outputs/
+checkpoints*
+logs*
+*.pyc
+inference_samples
